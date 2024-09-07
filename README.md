@@ -40,3 +40,4 @@ Se você quiser adicionar mais atletas, melhorar a pesquisa ou até mesmo criar 
 * **Imagens e GIFs:** Use imagens e GIFs para ilustrar o seu projeto e torná-lo mais visualmente atraente.
 * **Links:** Inclua links para os seus perfis nas redes sociais, portfólio ou outros projetos.
 * **Chamada para ação:** Incentive outros desenvolvedores a contribuírem com o seu projeto.
+* **Link do versel:** https://olimpiadas-two-red.vercel.app/
